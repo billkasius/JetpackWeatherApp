@@ -3,14 +3,6 @@ Weather App
 
 A simple Android application built with Kotlin that shows current weather information and forecasts for a given location. The app fetches data from a public weather API and displays temperature, humidity, and other relevant weather metrics in a clean, user-friendly interface.
 
-Features
-
-    Current Weather: Displays up-to-date weather information for the user's current location or a manually entered city.
-    Forecast: Shows a multi-day weather forecast, including temperature highs, lows, and weather conditions.
-    Search: Allows users to search weather by city name or ZIP code.
-    User-Friendly UI: Modern and intuitive design that is easy to navigate.
-    Error Handling: Alerts the user in case of network connectivity issues or invalid input.
-
 General Structure
 
     Language: The project is written in Kotlin.
@@ -53,10 +45,10 @@ Getting Started
 
     const val openWeatherMapApiKey = "YOUR_API_KEY";
 
-Build the project:
+  Build the project:
 
     Wait for Gradle to sync.
 
-Run the app:
+  Run the app:
 
-    Select an emulator or a physical device and click Run (▶️) in Android Studio.
+    Select an emulator or a physical device and click Run > in Android Studio.
