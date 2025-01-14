@@ -6,6 +6,7 @@ A simple Android application built with Kotlin that shows current weather inform
 General Structure
 
     Language: The project is written in Kotlin.
+    Icon: Designed by me in Photoshop and fully optimized for Google Play requirements.
     UI: Uses Jetpack Compose to build the user interface (a single Activity and several @Composable functions).
     Architecture: A single-screen application with MainViewModel as the primary ViewModel, managing requests and storage of weather data.
     Data Requests: Weather data and forecasts are fetched via Retrofit + Gson.
