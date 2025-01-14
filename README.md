@@ -3,6 +3,16 @@ Weather App
 
 A simple Android application built with Kotlin that shows current weather information and forecasts for a given location. The app fetches data from a public weather API and displays temperature, humidity, and other relevant weather metrics in a clean, user-friendly interface.
 
+Preview
+
+https://github.com/user-attachments/assets/9d99b837-e917-4517-89fa-d93c896eb6a7
+
+Icon
+![ИконкаПогода](https://github.com/user-attachments/assets/e363cfaa-fc12-4f62-956b-0fe96d646e62)
+
+![ЭскизИконкаПогода](https://github.com/user-attachments/assets/9dcb2dfa-42d7-4584-be18-b5321dd82481)
+
+
 General Structure
 
     Language: The project is written in Kotlin.
